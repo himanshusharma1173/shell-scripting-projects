@@ -22,5 +22,5 @@ This repo contains practical Bash/Shell scripts that I’m building to improve m
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/shell-scripting-projects.git
+   git clone https://github.com/himanshusharma1173/shell-scripting-projects
    cd shell-scripting-projects
