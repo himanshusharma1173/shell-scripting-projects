@@ -5,13 +5,13 @@ This repo contains practical Bash/Shell scripts that I’m building to improve m
 
 ---
 
-## 📌 Projects Included
+## Projects Included
 - **GitHub API Script** → Fetches collaborators with read access from a given repository using `curl` + `jq`.
 - (Coming more..)
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Bash / Shell scripting**
 - **cURL** → For API requests
 - **jq** → For JSON parsing
@@ -19,7 +19,7 @@ This repo contains practical Bash/Shell scripts that I’m building to improve m
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/himanshusharma1173/shell-scripting-projects
